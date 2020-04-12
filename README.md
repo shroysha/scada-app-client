@@ -5,4 +5,4 @@
 An application to monitor the status of SCADA sites
 
 ### Tags
-[Java, Application, JUnit, Spring Boot App Client]
+[Java, Application, JUnit]
