@@ -31,6 +31,6 @@ testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.3.1")
 
 }
 
-java { sourceCompatibility = JavaVersion.VERSION_11; targetCompatibility = JavaVersion.VERSION_11 }
+java { sourceCompatibility = JavaVersion.VERSION_13; targetCompatibility = JavaVersion.VERSION_13 }
 application { mainClassName = "App" }
 test { useJUnitPlatform() }
